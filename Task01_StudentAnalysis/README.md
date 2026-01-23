@@ -6,17 +6,6 @@ The task was completed as part of **Task 01 – Data Analysis & Data Visualizati
 
 ---
 
-## 📁 Project Structure
-Task01_StudentAnalysis/
-│
-├── StudentsPerformance_raw_Dataset.csv
-├── StudentsPerformance_cleaned_Dataset.csv
-├── StudentsPerformance_Analysis_1.xlsx
-└── README.md
-
-
----
-
 ## 📊 Dataset Overview
 The dataset contains student-related performance data used to analyze patterns and distributions.
 
@@ -33,7 +22,7 @@ The dataset contains student-related performance data used to analyze patterns a
 ---
 
 ## 📈 Data Analysis & Visualizations
-The following analysis was performed using **Excel / Google Sheets**:
+The following analysis was performed using **Excel**:
 - Basic descriptive statistics (count, average, distribution)
 - Bar charts for comparison analysis
 - Pie charts to show percentage distribution
@@ -42,7 +31,6 @@ The following analysis was performed using **Excel / Google Sheets**:
 
 ## 🛠 Tools & Technologies
 - Microsoft Excel  
-- Google Sheets  
 
 ---
 
@@ -58,8 +46,3 @@ The following analysis was performed using **Excel / Google Sheets**:
 ✔ Task 01 completed successfully  
 ✔ Dataset cleaned and analyzed  
 ✔ Visual insights generated  
-
----
-
-## 🔗 Repository Purpose
-This repository is maintained as part of my **Data Analytics / Data Science learning journey** and internship tasks.
