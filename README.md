@@ -79,6 +79,3 @@ Built a **Sentiment Analysis system** using **Natural Language Processing (NLP)*
 - ✔️ Improved **analytical and problem-solving skills**  
 - ✔️ Experience with **GitHub project documentation**
 
-
-## 📂 **Repository Structure**
-
