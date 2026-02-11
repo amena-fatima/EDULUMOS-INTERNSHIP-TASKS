@@ -25,27 +25,6 @@ Each project demonstrates the application of **Data Analysis**, **Machine Learni
 
 ---
 
-EDULUMOS-INTERNSHIP-TASKS/
-│
-├── Task01_StudentAnalysis/
-│ └── Data Analysis & Visualization using Excel
-│
-├── Task02_HousePricePrediction/
-│ └── Linear Regression Model for House Price Prediction
-│
-├── Task04_TitanicAnalysis/
-│ └── Exploratory Data Analysis (EDA) on Titanic Dataset
-│
-├── Task05_SentimentAnalysis/
-│ └── Sentiment Analysis on Amazon Product Reviews
-│
-└── README.md
-
----
-
-
----
-
 ## ✅ **Tasks Completed**
 
 ### 🔹 **Task 01: Data Analysis & Data Visualization**
